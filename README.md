@@ -1,5 +1,16 @@
 # Unit 6 | Assignment - What's the Weather Like?
 
+## Analysis
+
+1. Latitude does factor into the average temperature of a city. The closer the city is to the equator, the higher the average temperature.
+
+2. Based on the density of the scatter points in the Humidity vs Latitude plot, it looks like a majority of the cities near the equator (center point of density seems to be between 0 and 10 degrees north of the equator) consistently experience humidity of over 60%. However the further you move from the equator there is an increasing number of cities that experience lower percentages of humidity.
+
+3. Based on the density of the scatter points in the Humidity vs Latitude plot, it looks like a majority of the cities near the equator (center point of density seems to be around 10 degrees north of the equator) consistently experience cloudiness of over 70%. However, the futhre you move from the equator there is an increasing number of cities that experience close to 0% cloudiness.
+
+4. A majority of the cities experience wind speeds under 20mph. Latitude does not seem to play a factor in wind speeds.
+
+
 ## Background
 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
